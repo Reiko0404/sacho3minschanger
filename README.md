@@ -1,4 +1,5 @@
 ## Discord Nickname Changer Bot
+## THIS MAKE FOR FRANK FRIEND NICKNAME xD 
 
 This bot automatically changes the nickname of a specified Discord user at a set interval. The list of nicknames to cycle through is loaded from a JSON file.
 
