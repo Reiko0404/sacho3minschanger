@@ -4,7 +4,7 @@ import asyncio
 import random
 
 # Discord 봇 토큰
-TOKEN = 'MTE4MjYwNTkyOTM5MzQyMjQwNw.GBsVKa.Kp-xoE9hQb4E7jDcUC6xdE6fhfDx3yYpRpQpMI'
+TOKEN = 'put you are bot token'
 
 # 변경할 닉네임 목록이 있는 JSON 파일 경로
 NICKNAMES_FILE = "nicks.json"
